@@ -24,10 +24,6 @@ We used the IUCN Red List status from the 2022 public version of the database (*
 + 03_figures.R : 
 **Scripts for all figures (including supplementary) in the paper.**
 
-# Figures ("outputs" folder)
-
-Contains all the figures generated from the code.
-
 # References 
 Rigal S, Devictor V, Dakos V (2020) A method for classifying and comparing non-linear trajectories of ecological variables. Ecological Indicators 112: 106113
 
