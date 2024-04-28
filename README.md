@@ -2,7 +2,7 @@
 
 Code and data for the following paper: 'Non-linearity and temporal variability are overlooked components of global vertebrate population dynamics'.
 
-# Data
+# Data ("data" folder)
 
 ## Living Planet Database
 The population time series we analysed come from the Living Planet Database (public version from 2022 *"LPD2022_public.csv"* downloaded from https://www.livingplanetindex.org/data_portal)
